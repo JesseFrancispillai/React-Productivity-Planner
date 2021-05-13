@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/React-Productivity-Planner/static/css/main.c527c4bf.chunk.css",
-    "main.js": "/React-Productivity-Planner/static/js/main.c2db4ad5.chunk.js",
-    "main.js.map": "/React-Productivity-Planner/static/js/main.c2db4ad5.chunk.js.map",
-    "runtime-main.js": "/React-Productivity-Planner/static/js/runtime-main.23078d80.js",
-    "runtime-main.js.map": "/React-Productivity-Planner/static/js/runtime-main.23078d80.js.map",
-    "static/js/2.77847930.chunk.js": "/React-Productivity-Planner/static/js/2.77847930.chunk.js",
-    "static/js/2.77847930.chunk.js.map": "/React-Productivity-Planner/static/js/2.77847930.chunk.js.map",
-    "static/js/3.31493218.chunk.js": "/React-Productivity-Planner/static/js/3.31493218.chunk.js",
-    "static/js/3.31493218.chunk.js.map": "/React-Productivity-Planner/static/js/3.31493218.chunk.js.map",
-    "index.html": "/React-Productivity-Planner/index.html",
-    "static/css/main.c527c4bf.chunk.css.map": "/React-Productivity-Planner/static/css/main.c527c4bf.chunk.css.map",
-    "static/js/2.77847930.chunk.js.LICENSE.txt": "/React-Productivity-Planner/static/js/2.77847930.chunk.js.LICENSE.txt"
+    "main.css": "/react-productivity-planner/static/css/main.c527c4bf.chunk.css",
+    "main.js": "/react-productivity-planner/static/js/main.c2db4ad5.chunk.js",
+    "main.js.map": "/react-productivity-planner/static/js/main.c2db4ad5.chunk.js.map",
+    "runtime-main.js": "/react-productivity-planner/static/js/runtime-main.2af15981.js",
+    "runtime-main.js.map": "/react-productivity-planner/static/js/runtime-main.2af15981.js.map",
+    "static/js/2.77847930.chunk.js": "/react-productivity-planner/static/js/2.77847930.chunk.js",
+    "static/js/2.77847930.chunk.js.map": "/react-productivity-planner/static/js/2.77847930.chunk.js.map",
+    "static/js/3.31493218.chunk.js": "/react-productivity-planner/static/js/3.31493218.chunk.js",
+    "static/js/3.31493218.chunk.js.map": "/react-productivity-planner/static/js/3.31493218.chunk.js.map",
+    "index.html": "/react-productivity-planner/index.html",
+    "static/css/main.c527c4bf.chunk.css.map": "/react-productivity-planner/static/css/main.c527c4bf.chunk.css.map",
+    "static/js/2.77847930.chunk.js.LICENSE.txt": "/react-productivity-planner/static/js/2.77847930.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.23078d80.js",
+    "static/js/runtime-main.2af15981.js",
     "static/js/2.77847930.chunk.js",
     "static/css/main.c527c4bf.chunk.css",
     "static/js/main.c2db4ad5.chunk.js"

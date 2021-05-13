@@ -1,1 +1,2 @@
-# react-productivity-planner
+# ReactJS Productivity Planner
+

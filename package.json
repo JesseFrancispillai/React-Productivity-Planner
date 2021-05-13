@@ -1,6 +1,6 @@
 {
   "homepage": "http://JesseFrancispillai.github.io/react-productivity-planner",
-  "name": "react-task-tracker",
+  "name": "react-productivity-planner",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

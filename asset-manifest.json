@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-productivity-planner/static/css/main.c527c4bf.chunk.css",
+    "main.js": "/react-productivity-planner/static/js/main.e825388c.chunk.js",
+    "main.js.map": "/react-productivity-planner/static/js/main.e825388c.chunk.js.map",
+    "runtime-main.js": "/react-productivity-planner/static/js/runtime-main.a0659f1c.js",
+    "runtime-main.js.map": "/react-productivity-planner/static/js/runtime-main.a0659f1c.js.map",
+    "static/js/2.3d169925.chunk.js": "/react-productivity-planner/static/js/2.3d169925.chunk.js",
+    "static/js/2.3d169925.chunk.js.map": "/react-productivity-planner/static/js/2.3d169925.chunk.js.map",
+    "static/js/3.293c05bc.chunk.js": "/react-productivity-planner/static/js/3.293c05bc.chunk.js",
+    "static/js/3.293c05bc.chunk.js.map": "/react-productivity-planner/static/js/3.293c05bc.chunk.js.map",
+    "index.html": "/react-productivity-planner/index.html",
+    "static/css/main.c527c4bf.chunk.css.map": "/react-productivity-planner/static/css/main.c527c4bf.chunk.css.map",
+    "static/js/2.3d169925.chunk.js.LICENSE.txt": "/react-productivity-planner/static/js/2.3d169925.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0659f1c.js",
+    "static/js/2.3d169925.chunk.js",
+    "static/css/main.c527c4bf.chunk.css",
+    "static/js/main.e825388c.chunk.js"
+  ]
+}
